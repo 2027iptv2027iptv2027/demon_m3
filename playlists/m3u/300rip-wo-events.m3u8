@@ -1647,9 +1647,9 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/446780
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470359
 #EXTINF:-1 tvg-id="PBSWQPT.us" tvg-name="IL | Moline | PBS WQPT" group-title="ENG - Kids & Family",IL | Moline | PBS WQPT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470356
-#EXTINF:-1 tvg-name="IL | Urbana-Champaign | PBS Kids WILL" tvg-logo="https://static.realiptv.to/snapshots/629687.jpg" group-title="ENG - Kids & Family",IL | Urbana-Champaign | PBS Kids WILL
+#EXTINF:-1 tvg-name="IL | Champaign | PBS Kids WILL" group-title="ENG - Kids & Family",IL | Champaign | PBS Kids WILL
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629687
-#EXTINF:-1 tvg-id="PBSWILL.us" tvg-name="IL | Urbana-Champaign | PBS WILL" tvg-logo="https://static.realiptv.to/snapshots/470361.jpg" group-title="ENG - Kids & Family",IL | Urbana-Champaign | PBS WILL
+#EXTINF:-1 tvg-id="PBSWILL.us" tvg-name="IL | Champaign | PBS WILL" group-title="ENG - Kids & Family",IL | Champaign | PBS WILL
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470361
 #EXTINF:-1 tvg-id="PBSWTIU.us" tvg-name="IN | Bloomington | PBS WTIU" group-title="ENG - Kids & Family",IN | Bloomington | PBS WTIU
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470354
@@ -1671,11 +1671,11 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470347
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/446777
 #EXTINF:-1 tvg-name="MI | Grand Rapids | PBS Kids WGVU" tvg-logo="https://static.realiptv.to/snapshots/629920.jpg" group-title="ENG - Kids & Family",MI | Grand Rapids | PBS Kids WGVU
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629920
-#EXTINF:-1 tvg-id="PBSWCMU.us" tvg-name="MI | Mount Pleasant | PBS WCMU" tvg-logo="https://static.realiptv.to/snapshots/629819.jpg" group-title="ENG - Kids & Family",MI | Mount Pleasant | PBS WCMU
+#EXTINF:-1 tvg-id="PBSWCMU.us" tvg-name="MI | Mount Pleasant | PBS WCMU" group-title="ENG - Kids & Family",MI | Mount Pleasant | PBS WCMU
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629819
 #EXTINF:-1 tvg-id="PBSKWCM.us" tvg-name="MN | Appleton | PBS KWCM" group-title="ENG - Kids & Family",MN | Appleton | PBS KWCM
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470336
-#EXTINF:-1 tvg-name="MN | Minneapolis | PBS KTCA" tvg-logo="https://static.realiptv.to/snapshots/470337.jpg" group-title="ENG - Kids & Family",MN | Minneapolis | PBS KTCA
+#EXTINF:-1 tvg-id="PBSKTCA.us" tvg-name="MN | Minneapolis | PBS KTCA" group-title="ENG - Kids & Family",MN | Minneapolis | PBS KTCA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470337
 #EXTINF:-1 tvg-id="PBSKCPT.us" tvg-name="MO | Kansas City | PBS KCPT" group-title="ENG - Kids & Family",MO | Kansas City | PBS KCPT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470335
@@ -1707,49 +1707,49 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470320
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89705
 #EXTINF:-1 tvg-id="PBSWOUB.us" tvg-name="OH | Athens | PBS WOUB" group-title="ENG - Kids & Family",OH | Athens | PBS WOUB
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470311
-#EXTINF:-1 tvg-name="OH | Bowling Green | PBS WBGU" tvg-logo="https://static.realiptv.to/snapshots/470314.jpg" group-title="ENG - Kids & Family",OH | Bowling Green | PBS WBGU
+#EXTINF:-1 tvg-id="PBSWBGU.us" tvg-name="OH | Bowling Green | PBS WBGU" group-title="ENG - Kids & Family",OH | Bowling Green | PBS WBGU
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470314
-#EXTINF:-1 tvg-name="OH | COLUMBUS | PBS WOSU" tvg-logo="https://static.realiptv.to/snapshots/446782.jpg" group-title="ENG - Kids & Family",OH | COLUMBUS | PBS WOSU
+#EXTINF:-1 tvg-id="PBSWOSU.us" tvg-name="OH | COLUMBUS | PBS WOSU" group-title="ENG - Kids & Family",OH | COLUMBUS | PBS WOSU
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/446782
-#EXTINF:-1 tvg-name="OH | Toledo |  PBS WGTE" tvg-logo="https://static.realiptv.to/snapshots/446831.jpg" group-title="ENG - Kids & Family",OH | Toledo |  PBS WGTE
+#EXTINF:-1 tvg-id="PBSWGTE.us" tvg-name="OH | Toledo |  PBS WGTE" group-title="ENG - Kids & Family",OH | Toledo |  PBS WGTE
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/446831
-#EXTINF:-1 tvg-name="OR | Medford | PBS KSYS" tvg-logo="https://static.realiptv.to/snapshots/470309.jpg" group-title="ENG - Kids & Family",OR | Medford | PBS KSYS
+#EXTINF:-1 tvg-id="PBSKSYS.us" tvg-name="OR | Medford | PBS KSYS" group-title="ENG - Kids & Family",OR | Medford | PBS KSYS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470309
 #EXTINF:-1 tvg-name="OR | Portland | PBS Kids KOPB" tvg-logo="https://static.realiptv.to/snapshots/597138.jpg" group-title="ENG - Kids & Family",OR | Portland | PBS Kids KOPB
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597138
-#EXTINF:-1 tvg-name="PA | Erie | PBS WQLN" tvg-logo="https://static.realiptv.to/snapshots/470303.jpg" group-title="ENG - Kids & Family",PA | Erie | PBS WQLN
+#EXTINF:-1 tvg-id="PBSWQLN.us" tvg-name="PA | Erie | PBS WQLN" group-title="ENG - Kids & Family",PA | Erie | PBS WQLN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470303
 #EXTINF:-1 tvg-name="PA | Philadelphia | PBS Kids WHYY " tvg-logo="https://static.realiptv.to/snapshots/629577.jpg" group-title="ENG - Kids & Family",PA | Philadelphia | PBS Kids WHYY
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629577
-#EXTINF:-1 tvg-name="PA | Philadelphia | PBS WHYY" tvg-logo="https://static.realiptv.to/snapshots/470307.jpg" group-title="ENG - Kids & Family",PA | Philadelphia | PBS WHYY
+#EXTINF:-1 tvg-id="PBSWHYY.us" tvg-name="PA | Philadelphia | PBS WHYY" group-title="ENG - Kids & Family",PA | Philadelphia | PBS WHYY
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470307
-#EXTINF:-1 tvg-name="PA | Scranton | PBS WVIA" tvg-logo="https://static.realiptv.to/snapshots/470308.jpg" group-title="ENG - Kids & Family",PA | Scranton | PBS WVIA
+#EXTINF:-1 tvg-id="PBSWVIA.us" tvg-name="PA | Scranton | PBS WVIA" group-title="ENG - Kids & Family",PA | Scranton | PBS WVIA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470308
-#EXTINF:-1 tvg-name="PBS Kids WHA" tvg-logo="https://static.realiptv.to/snapshots/597141.jpg" group-title="ENG - Kids & Family",PBS Kids WHA
+#EXTINF:-1 tvg-name="WI | Madison | PBS Kids WHA" group-title="ENG - Kids & Family",WI | Madison | PBS Kids WHA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597141
-#EXTINF:-1 tvg-name="PBS Kids WKPC" tvg-logo="https://static.realiptv.to/snapshots/597142.jpg" group-title="ENG - Kids & Family",PBS Kids WKPC
+#EXTINF:-1 tvg-name="KY | Louisville | PBS Kids WKPC" group-title="ENG - Kids & Family",KY | Louisville | PBS Kids WKPC
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597142
-#EXTINF:-1 tvg-name="SC |  PBS WRET" tvg-logo="https://static.realiptv.to/snapshots/597152.jpg" group-title="ENG - Kids & Family",SC |  PBS WRET
+#EXTINF:-1 tvg-id="PBSWRLK.us" tvg-name="SC | Spartanburg | PBS WRET" group-title="ENG - Kids & Family",SC | Spartanburg | PBS WRET
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597152
 #EXTINF:-1 tvg-name="SC | Columbia | PBs Kids WRLK" tvg-logo="https://static.realiptv.to/snapshots/597145.jpg" group-title="ENG - Kids & Family",SC | Columbia | PBs Kids WRLK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597145
-#EXTINF:-1 tvg-name="SC | Columbia | PBS WRLK" tvg-logo="https://static.realiptv.to/snapshots/470301.jpg" group-title="ENG - Kids & Family",SC | Columbia | PBS WRLK
+#EXTINF:-1 tvg-id="PBSWRLK.us" tvg-name="SC | Columbia | PBS WRLK" group-title="ENG - Kids & Family",SC | Columbia | PBS WRLK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470301
-#EXTINF:-1 tvg-name="TN | Cordova | PBS WKNO" tvg-logo="https://static.realiptv.to/snapshots/470297.jpg" group-title="ENG - Kids & Family",TN | Cordova | PBS WKNO
+#EXTINF:-1 tvg-id="PBSWKNO.us" tvg-name="TN | Cordova | PBS WKNO" group-title="ENG - Kids & Family",TN | Cordova | PBS WKNO
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470297
 #EXTINF:-1 tvg-name="TX | Austin | PBS Kids KLRU" tvg-logo="https://static.realiptv.to/snapshots/597135.jpg" group-title="ENG - Kids & Family",TX | Austin | PBS Kids KLRU
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597135
-#EXTINF:-1 tvg-name="TX | Austin | PBS KLRU" tvg-logo="https://static.realiptv.to/snapshots/470292.jpg" group-title="ENG - Kids & Family",TX | Austin | PBS KLRU
+#EXTINF:-1 tvg-id="PBSKLRU.us" tvg-name="TX | Austin | PBS KLRU" group-title="ENG - Kids & Family",TX | Austin | PBS KLRU
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470292
-#EXTINF:-1 tvg-name="TX | Beaumont | PBS KUHT" tvg-logo="https://static.realiptv.to/snapshots/638586.jpg" group-title="ENG - Kids & Family",TX | Beaumont | PBS KUHT
+#EXTINF:-1 tvg-id="PBSKUHT.us" tvg-name="TX | Beaumont | PBS KUHT" group-title="ENG - Kids & Family",TX | Beaumont | PBS KUHT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/638586
-#EXTINF:-1 tvg-name="TX | Corpus Christi | PBS KEDT" tvg-logo="https://static.realiptv.to/snapshots/470295.jpg" group-title="ENG - Kids & Family",TX | Corpus Christi | PBS KEDT
+#EXTINF:-1 tvg-id="PBSKEDT.us" tvg-name="TX | Corpus Christi | PBS KEDT" group-title="ENG - Kids & Family",TX | Corpus Christi | PBS KEDT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470295
 #EXTINF:-1 tvg-name="TX | Dallas | PBS Kids KERA" tvg-logo="https://static.realiptv.to/snapshots/597132.jpg" group-title="ENG - Kids & Family",TX | Dallas | PBS Kids KERA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597132
 #EXTINF:-1 tvg-name="TX | Victoria | PBS Kids KLRN" tvg-logo="https://static.realiptv.to/snapshots/597134.jpg" group-title="ENG - Kids & Family",TX | Victoria | PBS Kids KLRN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597134
-#EXTINF:-1 tvg-name="TX | Victoria | PBS KLRN" tvg-logo="https://static.realiptv.to/snapshots/470293.jpg" group-title="ENG - Kids & Family",TX | Victoria | PBS KLRN
+#EXTINF:-1 tvg-id="PBSKLRN.us" tvg-name="TX | San Antonio | PBS KLRN" group-title="ENG - Kids & Family",TX | San Antonio | PBS KLRN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470293
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="Baby First" group-title="ENG - Kids & Family",Baby First
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2659
@@ -1821,7 +1821,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/631831
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97474
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickToons (East) HD USA" group-title="ENG - Kids & Family",NickToons (East) HD USA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3674
-#EXTINF:-1 tvg-name="NV | Las Vegas | PBS KLVX" tvg-logo="https://static.realiptv.to/snapshots/725062.jpg" group-title="ENG - Kids & Family",NV | Las Vegas | PBS KLVX
+#EXTINF:-1 tvg-id="PBSKLVX.us" tvg-name="NV | Las Vegas | PBS KLVX" group-title="ENG - Kids & Family",NV | Las Vegas | PBS KLVX
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/725062
 #EXTINF:-1 tvg-id="pbskids.us" tvg-name="USA PBS Kids" tvg-logo="https://static.realiptv.to/snapshots/21816.jpg" group-title="ENG - Kids & Family",USA PBS Kids
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/21816
@@ -1839,15 +1839,15 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401201
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/631834
 #EXTINF:-1 tvg-name="NY | Albany | PBS WMHT" group-title="ENG - Kids & Family",NY | Albany | PBS WMHT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/648972
-#EXTINF:-1 tvg-name="UT | Salt Lake City | PBS KUED" tvg-logo="https://static.realiptv.to/snapshots/470290.jpg" group-title="ENG - Kids & Family",UT | Salt Lake City | PBS KUED
+#EXTINF:-1 tvg-id="PBSKUED.us" tvg-name="UT | SLC | PBS KUED" group-title="ENG - Kids & Family",UT | SLC | PBS KUED
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470290
-#EXTINF:-1 tvg-name="WY | Riverton | PBS KCWC" tvg-logo="https://static.realiptv.to/snapshots/470285.jpg" group-title="ENG - Kids & Family",WY | Riverton | PBS KCWC
+#EXTINF:-1 tvg-id="PBSKCWC.us" tvg-name="WY | Riverton | PBS KCWC" group-title="ENG - Kids & Family",WY | Riverton | PBS KCWC
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/470285
-#EXTINF:-1 tvg-name="NC | Chapel Hill | PBS WUNC" tvg-logo="https://static.realiptv.to/snapshots/1242802.jpg" group-title="ENG - Kids & Family",NC | Chapel Hill | PBS WUNC
+#EXTINF:-1 tvg-id="PBSWUNC.us" tvg-name="NC | Chapel Hill | PBS WUNC" group-title="ENG - Kids & Family",NC | Chapel Hill | PBS WUNC
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1242802
-#EXTINF:-1 tvg-name="Edenton | Columbia PBS  WUND" tvg-logo="https://static.realiptv.to/snapshots/1242803.jpg" group-title="ENG - Kids & Family",Edenton | Columbia PBS  WUND
+#EXTINF:-1 tvg-id="PBSWUNC.us" tvg-name="NC | Edenton | PBS WUND" group-title="ENG - Kids & Family",NC | Edenton | PBS WUND
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1242803
-#EXTINF:-1 tvg-name="PA | Pittsburgh |  PBS WQED" tvg-logo="https://static.realiptv.to/snapshots/1270176.jpg" group-title="ENG - Kids & Family",PA | Pittsburgh |  PBS WQED
+#EXTINF:-1 tvg-id="PBSWQED.us" tvg-name="PA | Pittsburgh | PBS WQED" group-title="ENG - Kids & Family",PA | Pittsburgh | PBS WQED
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1270176
 #EXTINF:-1 tvg-id="ABCKYUR.us" tvg-name="AK | Anchorage | ABC KYUR" group-title="ENG - Local ABC",AK | Anchorage | ABC KYUR
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38317
