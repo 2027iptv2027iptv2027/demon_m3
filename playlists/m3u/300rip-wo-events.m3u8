@@ -2979,197 +2979,167 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/630678
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/631819
 #EXTINF:-1 tvg-name="WY | Milwaukee Telemundo WYTU" tvg-logo="https://static.realiptv.to/snapshots/730253.jpg" group-title="ESP - Local",WY | Milwaukee Telemundo WYTU
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/730253
-#EXTINF:-1 tvg-name="UK Premier Sports (1080)" tvg-logo="https://static.realiptv.to/snapshots/587718.jpg" group-title="ENG - United Kingdom",UK Premier Sports (1080)
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="Premier Sports 1 HD UK" group-title="ENG - Sports",Premier Sports 1 HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/587718
-#EXTINF:-1 tvg-name="BR CINEMAX" tvg-logo="https://static.realiptv.to/snapshots/96377.jpg" group-title="ENG - United Kingdom",BR CINEMAX
+#EXTINF:-1 tvg-name="BR CINEMAX" tvg-logo="https://static.realiptv.to/snapshots/96377.jpg" group-title="POR - Brazil",BR CINEMAX
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/96377
-#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="Sky Cinema Animation (SHD)" tvg-logo="https://static.realiptv.to/snapshots/587861.jpg" group-title="ENG - United Kingdom",Sky Cinema Animation (SHD)
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="Sky Cinema Animation HD" group-title="ENG - Movies",Sky Cinema Animation HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/587861
-#EXTINF:-1 tvg-id="4music.uk" tvg-name="UK 4Music" tvg-logo="https://static.realiptv.to/snapshots/2374.jpg" group-title="ENG - United Kingdom",UK 4Music
+#EXTINF:-1 tvg-id="4music.uk" tvg-name="UK 4Music" tvg-logo="https://static.realiptv.to/snapshots/2374.jpg" group-title="ENG - United Kingdom",UK 4Music UK (Offline) 
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2374
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK 4SEVEN" tvg-logo="https://static.realiptv.to/snapshots/89380.jpg" group-title="ENG - United Kingdom",UK 4SEVEN
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="4SEVEN UK" group-title="ENG - Entertainment",4SEVEN UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89380
-#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK 5 Star" tvg-logo="https://static.realiptv.to/snapshots/2372.jpg" group-title="ENG - United Kingdom",UK 5 Star
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-name="5 Star HD1 UK" group-title="ENG - Entertainment",5 Star HD1 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2372
-#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK 5 STAR" tvg-logo="https://static.realiptv.to/snapshots/88922.jpg" group-title="ENG - United Kingdom",UK 5 STAR
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-name="5 Star HD2 UK" group-title="ENG - Entertainment",5 Star HD2 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88922
-#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="UK 5USA" tvg-logo="https://static.realiptv.to/snapshots/89023.jpg" group-title="ENG - United Kingdom",UK 5USA
+#EXTINF:-1 tvg-id="5USA.uk" tvg-name="5 USA UK" group-title="ENG - Entertainment",5 USA UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89023
-#EXTINF:-1 tvg-id="aajtak.uk" tvg-name="UK Aaj Tak" tvg-logo="https://static.realiptv.to/snapshots/2370.jpg" group-title="ENG - United Kingdom",UK Aaj Tak
+#EXTINF:-1 tvg-id="AAJTAK.uk" tvg-name="Aaj Tak UK" group-title="ENG - United Kingdom",Aaj Tak UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2370
-#EXTINF:-1 tvg-id="aastha.uk" tvg-name="UK Aastha" tvg-logo="https://static.realiptv.to/snapshots/88352.jpg" group-title="ENG - United Kingdom",UK Aastha
+#EXTINF:-1 tvg-id="Aastha.uk" tvg-name="Aastha UK" group-title="ENG - United Kingdom",Aastha UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88352
-#EXTINF:-1 tvg-name="UK ABP News" tvg-logo="https://static.realiptv.to/snapshots/2369.jpg" group-title="ENG - United Kingdom",UK ABP News
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2369
-#EXTINF:-1 tvg-id="aljazeera.uk" tvg-name="UK AL JAZEERA" tvg-logo="https://static.realiptv.to/snapshots/89034.jpg" group-title="ENG - United Kingdom",UK AL JAZEERA
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="AL Jazeera (English) HD1 UK" group-title="ENG - News",AL Jazeera (English) HD1 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89034
-#EXTINF:-1 tvg-id="aljazeeraenglish.uk" tvg-name="UK AL JAZEERA HD" tvg-logo="https://static.realiptv.to/snapshots/88349.jpg" group-title="ENG - United Kingdom",UK AL JAZEERA HD
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="AL Jazeera (English) HD2 UK" group-title="ENG - News",AL Jazeera (English) HD2 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88349
-#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK Alibi" tvg-logo="https://static.realiptv.to/snapshots/2368.jpg" group-title="ENG - United Kingdom",UK Alibi
+#EXTINF:-1 tvg-id="UAndAlibi.uk" tvg-name="U & Alibi UK" group-title="ENG - Entertainment",U & Alibi UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2368
-#EXTINF:-1 tvg-id="amc.uk" tvg-name="UK AMC" tvg-logo="https://static.realiptv.to/snapshots/2367.jpg" group-title="ENG - United Kingdom",UK AMC
+#EXTINF:-1 tvg-id="amc.uk" tvg-name="AMC UK" group-title="ENG - Entertainment",AMC UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2367
-#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="UK Animal Planet" tvg-logo="https://static.realiptv.to/snapshots/2365.jpg" group-title="ENG - United Kingdom",UK Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="Animal Planet UK" group-title="ENG - Entertainment",Animal Planet UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2365
-#EXTINF:-1 tvg-name="UK Ary Qtv" tvg-logo="https://static.realiptv.to/snapshots/88351.jpg" group-title="ENG - United Kingdom",UK Ary Qtv
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88351
-#EXTINF:-1 tvg-name="UK Ary World" tvg-logo="https://static.realiptv.to/snapshots/88350.jpg" group-title="ENG - United Kingdom",UK Ary World
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88350
-#EXTINF:-1 tvg-id="attheraces.uk" tvg-name="UK At The Races" tvg-logo="https://static.realiptv.to/snapshots/2364.jpg" group-title="ENG - United Kingdom",UK At The Races
+#EXTINF:-1 tvg-id="attheraces.uk" tvg-name="At The Races UK" group-title="ENG - United Kingdom",At The Races UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2364
-#EXTINF:-1 tvg-id="b4umovies.uk" tvg-name="UK B4U Movies" tvg-logo="https://static.realiptv.to/snapshots/2363.jpg" group-title="ENG - United Kingdom",UK B4U Movies
+#EXTINF:-1 tvg-id="B4UMovies.uk" tvg-name="B4U Movies UK" group-title="ENG - Movies",B4U Movies UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2363
-#EXTINF:-1 tvg-id="b4umusic.uk" tvg-name="UK B4U Music" tvg-logo="https://static.realiptv.to/snapshots/2362.jpg" group-title="ENG - United Kingdom",UK B4U Music
+#EXTINF:-1 tvg-id="B4UMusic.uk" tvg-name="B4U Music UK" group-title="Music (All Lang)",B4U Music UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2362
-#EXTINF:-1 tvg-id="babytv.uk" tvg-name="UK baby tv" tvg-logo="https://static.realiptv.to/snapshots/2360.jpg" group-title="ENG - United Kingdom",UK baby tv
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV UK" group-title="ENG - Kids & Family",Baby TV UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2360
-#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK BBC 1" tvg-logo="https://static.realiptv.to/snapshots/2359.jpg" group-title="ENG - United Kingdom",UK BBC 1
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC 1 UK" group-title="ENG - Entertainment",BBC 1 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2359
-#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK BBC 2" tvg-logo="https://static.realiptv.to/snapshots/2358.jpg" group-title="ENG - United Kingdom",UK BBC 2
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC 2 UK" group-title="ENG - Entertainment",BBC 2 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2358
-#EXTINF:-1 tvg-name="UK BBC 3" tvg-logo="https://static.realiptv.to/snapshots/88915.jpg" group-title="ENG - United Kingdom",UK BBC 3
+#EXTINF:-1 tvg-id="BBCThree_CBBC.uk" tvg-name="BBC 3/CBBC UK" group-title="ENG - Entertainment",BBC 3/CBBC
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88915
-#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK BBC 4" tvg-logo="https://static.realiptv.to/snapshots/2356.jpg" group-title="ENG - United Kingdom",UK BBC 4
+#EXTINF:-1 tvg-id="BBCFour_CBeebies.uk" tvg-name="BBC 4/CBeebies UK" group-title="ENG - Entertainment",BBC 4/CBeebies UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2356
-#EXTINF:-1 tvg-id="bbcalba.uk" tvg-name="UK BBC Alba" tvg-logo="https://static.realiptv.to/snapshots/2355.jpg" group-title="ENG - United Kingdom",UK BBC Alba
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-name="BBC Alba UK" group-title="ENG - Entertainment",BBC Alba UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2355
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK BBC News HD" tvg-logo="https://static.realiptv.to/snapshots/2354.jpg" group-title="ENG - United Kingdom",UK BBC News HD
+#EXTINF:-1 tvg-id="BBCNewsChannel.uk" tvg-name="BBC News HD UK" group-title="ENG - News",BBC News HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2354
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK BBC One" tvg-logo="https://static.realiptv.to/snapshots/542826.jpg" group-title="ENG - United Kingdom",UK BBC One
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One UK" group-title="ENG - Entertainment",BBC One UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/542826
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK BBC One East E" tvg-logo="https://static.realiptv.to/snapshots/527502.jpg" group-title="ENG - United Kingdom",UK BBC One East E
+#EXTINF:-1 tvg-id="BBCOneEast.uk" tvg-name="BBC One East UK" group-title="ENG - Entertainment",BBC One East UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/527502
-#EXTINF:-1 tvg-id="bbconenorthernireland.uk" tvg-name="UK BBC One Northern Ireland" tvg-logo="https://static.realiptv.to/snapshots/2353.jpg" group-title="ENG - United Kingdom",UK BBC One Northern Ireland
+#EXTINF:-1 tvg-id="BBCOneNorthernIreland.uk" tvg-name="BBC One Northern Ireland UK" group-title="ENG - Entertainment",BBC One Northern Ireland UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2353
-#EXTINF:-1 tvg-id="bbc1scotland.uk" tvg-name="UK BBC One Scotland" tvg-logo="https://static.realiptv.to/snapshots/2352.jpg" group-title="ENG - United Kingdom",UK BBC One Scotland
+#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-name="BBC One Scotland UK" group-title="ENG - Entertainment",BBC One Scotland UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2352
-#EXTINF:-1 tvg-id="bbcsouth.uk" tvg-name="UK BBC One South" tvg-logo="https://static.realiptv.to/snapshots/527505.jpg" group-title="ENG - United Kingdom",UK BBC One South
+#EXTINF:-1 tvg-id="BBCOneSouth.uk" tvg-name="BBC One South UK" group-title="ENG - Entertainment",BBC One South UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/527505
-#EXTINF:-1 tvg-id="bbcwestmidlans.uk" tvg-name="UK BBC One W Mid" tvg-logo="https://static.realiptv.to/snapshots/527506.jpg" group-title="ENG - United Kingdom",UK BBC One W Mid
+#EXTINF:-1 tvg-id="BBCOneWestMidlands.uk" tvg-name="BBC One West Midlands UK" group-title="ENG - Entertainment",BBC One West Midlands UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/527506
-#EXTINF:-1 tvg-name="UK BBC One Wales" tvg-logo="https://static.realiptv.to/snapshots/2351.jpg" group-title="ENG - United Kingdom",UK BBC One Wales
+#EXTINF:-1 tvg-id="BBCOneWales.uk" tvg-name="BBC One Wales UK" group-title="ENG - Entertainment",BBC One Wales UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2351
-#EXTINF:-1 tvg-id="bbcparliament.uk" tvg-name="UK BBC Parliament" tvg-logo="https://static.realiptv.to/snapshots/2350.jpg" group-title="ENG - United Kingdom",UK BBC Parliament
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament UK" group-title="ENG - Entertainment",BBC Parliament UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2350
 #EXTINF:-1 tvg-name="UK BBC Two Scotland" tvg-logo="https://static.realiptv.to/snapshots/2347.jpg" group-title="ENG - United Kingdom",UK BBC Two Scotland
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2347
-#EXTINF:-1 tvg-name="UK BBC Two Wales" tvg-logo="https://static.realiptv.to/snapshots/2346.jpg" group-title="ENG - United Kingdom",UK BBC Two Wales
+#EXTINF:-1 tvg-id="BBCTwoWales.uk" tvg-name="BBC Two Wales UK" group-title="ENG - Entertainment",BBC Two Wales UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2346
 #EXTINF:-1 tvg-id="bbcworldnews.uk" tvg-name="UK BBC World News" tvg-logo="https://static.realiptv.to/snapshots/2345.jpg" group-title="ENG - United Kingdom",UK BBC World News
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2345
-#EXTINF:-1 tvg-id="bet.uk" tvg-name="UK BET" tvg-logo="https://static.realiptv.to/snapshots/2344.jpg" group-title="ENG - United Kingdom",UK BET
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2344
-#EXTINF:-1 tvg-id="blaze.uk" tvg-name="UK Blaze" tvg-logo="https://static.realiptv.to/snapshots/2342.jpg" group-title="ENG - United Kingdom",UK Blaze
+#EXTINF:-1 tvg-id="Blaze.uk" tvg-name="Blaze UK" group-title="ENG - Entertainment",Blaze UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2342
-#EXTINF:-1 tvg-id="bloombergtv.uk" tvg-name="UK Bloomberg" tvg-logo="https://static.realiptv.to/snapshots/2341.jpg" group-title="ENG - United Kingdom",UK Bloomberg
+#EXTINF:-1 tvg-id="Bloomberg.uk" tvg-name="Bloomberg UK" group-title="ENG - News",Bloomberg UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2341
-#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="UK Boomerang" tvg-logo="https://static.realiptv.to/snapshots/650438.jpg" group-title="ENG - United Kingdom",UK Boomerang
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="Boomerang UK" group-title="ENG - Kids & Family",Boomerang UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650438
-#EXTINF:-1 tvg-id="btsport10.uk" tvg-name="UK BT Sports 10 Extra 6" tvg-logo="https://static.realiptv.to/snapshots/2329.jpg" group-title="ENG - United Kingdom",UK BT Sports 10 Extra 6
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2329
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK BT Sports 2 HD" tvg-logo="https://static.realiptv.to/snapshots/2326.jpg" group-title="ENG - United Kingdom",UK BT Sports 2 HD
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2 HD UK" group-title="ENG - Sports",TNT Sports 2 HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2326
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK BT Sports 3 HD" tvg-logo="https://static.realiptv.to/snapshots/2325.jpg" group-title="ENG - United Kingdom",UK BT Sports 3 HD
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3 HD UK" group-title="ENG - Sports",TNT Sports 3 HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2325
-#EXTINF:-1 tvg-id="btsport6.uk" tvg-name="UK BT Sports 6 Extra 2" tvg-logo="https://static.realiptv.to/snapshots/2331.jpg" group-title="ENG - United Kingdom",UK BT Sports 6 Extra 2
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2331
-#EXTINF:-1 tvg-id="btsport7.uk" tvg-name="UK BT Sports 7 Extra 3" tvg-logo="https://static.realiptv.to/snapshots/2330.jpg" group-title="ENG - United Kingdom",UK BT Sports 7 Extra 3
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2330
-#EXTINF:-1 tvg-id="btsport8.uk" tvg-name="UK BT Sports 8 Extra 4" tvg-logo="https://static.realiptv.to/snapshots/2333.jpg" group-title="ENG - United Kingdom",UK BT Sports 8 Extra 4
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2333
-#EXTINF:-1 tvg-id="btsport9.uk" tvg-name="UK BT Sports 9 Extra 5" tvg-logo="https://static.realiptv.to/snapshots/2327.jpg" group-title="ENG - United Kingdom",UK BT Sports 9 Extra 5
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2327
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK C ITV" tvg-logo="https://static.realiptv.to/snapshots/2324.jpg" group-title="ENG - United Kingdom",UK C ITV
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2324
-#EXTINF:-1 tvg-name="UK Cartoon Network" tvg-logo="https://static.realiptv.to/snapshots/650437.jpg" group-title="ENG - United Kingdom",UK Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network UK" group-title="ENG - Kids & Family",Cartoon Network UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650437
-#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="UK CARTOONITO" tvg-logo="https://static.realiptv.to/snapshots/2323.jpg" group-title="ENG - United Kingdom",UK CARTOONITO
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="Cartoonito HD1 UK" group-title="ENG - Kids & Family",Cartoonito HD1 Uk
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2323
-#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="UK Cartoonito" tvg-logo="https://static.realiptv.to/snapshots/2322.jpg" group-title="ENG - United Kingdom",UK Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="Cartoonito HD2 UK" group-title="ENG - Kids & Family",Cartoonito HD2 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2322
-#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK CBBC" tvg-logo="https://static.realiptv.to/snapshots/2321.jpg" group-title="ENG - United Kingdom",UK CBBC
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC UK" group-title="ENG - Kids & Family",CBBC UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2321
-#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="UK CBeebies HD" tvg-logo="https://static.realiptv.to/snapshots/2320.jpg" group-title="ENG - United Kingdom",UK CBeebies HD
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies HD UK" group-title="ENG - Kids & Family",CBeebies HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2320
-#EXTINF:-1 tvg-id="cbsaction.uk" tvg-name="UK CBS Action" tvg-logo="https://static.realiptv.to/snapshots/2319.jpg" group-title="ENG - United Kingdom",UK CBS Action
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2319
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK CBS Justice" tvg-logo="https://static.realiptv.to/snapshots/2318.jpg" group-title="ENG - United Kingdom",UK CBS Justice
+#EXTINF:-1 tvg-id="Legend.uk" tvg-name="Legend UK" group-title="ENG - Entertainment",Legend UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2318
-#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK CBS Reality" tvg-logo="https://static.realiptv.to/snapshots/2317.jpg" group-title="ENG - United Kingdom",UK CBS Reality
+#EXTINF:-1 tvg-id="TrueCrime.uk" tvg-name="True Crime UK" group-title="ENG - Entertainment",True Crime UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2317
-#EXTINF:-1 tvg-id="challenge.uk" tvg-name="UK Challenge" tvg-logo="https://static.realiptv.to/snapshots/2316.jpg" group-title="ENG - United Kingdom",UK Challenge
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Challenge UK" group-title="ENG - Entertainment",Challenge UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2316
-#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK Channel 4 HD" tvg-logo="https://static.realiptv.to/snapshots/2315.jpg" group-title="ENG - United Kingdom",UK Channel 4 HD
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 HD UK" group-title="ENG - Entertainment",Channel 4 HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2315
-#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK Channel 5 HD" tvg-logo="https://static.realiptv.to/snapshots/2314.jpg" group-title="ENG - United Kingdom",UK Channel 5 HD
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5 HD UK" group-title="ENG - Entertainment",Channel 5 HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2314
-#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="UK Chelsea TV HD" tvg-logo="https://static.realiptv.to/snapshots/2312.jpg" group-title="ENG - United Kingdom",UK Chelsea TV HD
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2312
-#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="UK CNBC" tvg-logo="https://static.realiptv.to/snapshots/2310.jpg" group-title="ENG - United Kingdom",UK CNBC
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2310
-#EXTINF:-1 tvg-id="colors.uk" tvg-name="UK Colors" tvg-logo="https://static.realiptv.to/snapshots/2308.jpg" group-title="ENG - United Kingdom",UK Colors
+#EXTINF:-1 tvg-id="Colors.uk" tvg-name="Colors UK" group-title="ENG - United Kingdom",Colors UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2308
-#EXTINF:-1 tvg-id="colorsrishtey.uk" tvg-name="UK Colors Rishtey" tvg-logo="https://static.realiptv.to/snapshots/2223.jpg" group-title="ENG - United Kingdom",UK Colors Rishtey
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2223
-#EXTINF:-1 tvg-id="colors.uk" tvg-name="UK Colors TV" tvg-logo="https://static.realiptv.to/snapshots/2307.jpg" group-title="ENG - United Kingdom",UK Colors TV
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2307
-#EXTINF:-1 tvg-id="comedycentralextra.uk" tvg-name="UK Comedy Central Extra" tvg-logo="https://static.realiptv.to/snapshots/2306.jpg" group-title="ENG - United Kingdom",UK Comedy Central Extra
+#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="Comedy Central Extra UK" group-title="ENG - Entertainment",Comedy Central Extra UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2306
-#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK Comedy Central HD" tvg-logo="https://static.realiptv.to/snapshots/2305.jpg" group-title="ENG - United Kingdom",UK Comedy Central HD
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="Comedy Central HD UK" group-title="ENG - Entertainment",Comedy Central HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2305
-#EXTINF:-1 tvg-id="crimeinvest.uk" tvg-name="UK Crime & Investigation HD" tvg-logo="https://static.realiptv.to/snapshots/2304.jpg" group-title="ENG - United Kingdom",UK Crime & Investigation HD
+#EXTINF:-1 tvg-id="Crime+Investigation.uk" tvg-name="Crime+Investigation HD UK" group-title="ENG - Entertainment",Crime+Investigation HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2304
-#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK Dave HD" tvg-logo="https://static.realiptv.to/snapshots/2303.jpg" group-title="ENG - United Kingdom",UK Dave HD
+#EXTINF:-1 tvg-id="UandDave.uk" tvg-name="U & Dave HD UK" group-title="ENG - Entertainment",U & Dave HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2303
-#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="UK Discovery" tvg-logo="https://static.realiptv.to/snapshots/2302.jpg" group-title="ENG - United Kingdom",UK Discovery
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="Discovery UK" group-title="ENG - Entertainment",Discovery UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2302
-#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK Discovery History" tvg-logo="https://static.realiptv.to/snapshots/2301.jpg" group-title="ENG - United Kingdom",UK Discovery History
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History UK" group-title="ENG - Entertainment",Discovery History UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2301
-#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK Discovery Science" tvg-logo="https://static.realiptv.to/snapshots/2300.jpg" group-title="ENG - United Kingdom",UK Discovery Science
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science UK" group-title="ENG - Entertainment",Discovery Science UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2300
-#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="UK Discovery Turbo" tvg-logo="https://static.realiptv.to/snapshots/2298.jpg" group-title="ENG - United Kingdom",UK Discovery Turbo
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo UK" group-title="ENG - Sports Auto",Discovery Turbo UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2298
 #EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="UK Disney XD" tvg-logo="https://static.realiptv.to/snapshots/2296.jpg" group-title="ENG - United Kingdom",UK Disney XD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2296
-#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="UK DMAX HD" tvg-logo="https://static.realiptv.to/snapshots/2295.jpg" group-title="ENG - United Kingdom",UK DMAX HD
+#EXTINF:-1 tvg-id="DMAX.uk" tvg-name="DMAX HD UK" group-title="ENG - Entertainment",DMAX HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2295
-#EXTINF:-1 tvg-id="drama.uk" tvg-name="UK Drama" tvg-logo="https://static.realiptv.to/snapshots/2294.jpg" group-title="ENG - United Kingdom",UK Drama
+#EXTINF:-1 tvg-id="UandDrama.uk" tvg-name="U & Drama UK" group-title="ENG - Entertainment",U & Drama UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2294
 #EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK E!" tvg-logo="https://static.realiptv.to/snapshots/2293.jpg" group-title="ENG - United Kingdom",UK E!
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2293
-#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK E4" tvg-logo="https://static.realiptv.to/snapshots/2292.jpg" group-title="ENG - United Kingdom",UK E4
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4 UK" group-title="ENG - Entertainment",E4 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2292
-#EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK EDEN HD" tvg-logo="https://static.realiptv.to/snapshots/2290.jpg" group-title="ENG - United Kingdom",UK EDEN HD
+#EXTINF:-1 tvg-id="UandEden.uk" tvg-name="U & EDEN HD UK" group-title="ENG - Entertainment",U & EDEN HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2290
 #EXTINF:-1 tvg-id="eir-sport-1" tvg-name="UK Eir Sport 1" tvg-logo="https://static.realiptv.to/snapshots/2289.jpg" group-title="ENG - United Kingdom",UK Eir Sport 1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2289
 #EXTINF:-1 tvg-id="eir-sport-2" tvg-name="UK Eir Sport 2" tvg-logo="https://static.realiptv.to/snapshots/2287.jpg" group-title="ENG - United Kingdom",UK Eir Sport 2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2287
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK EuroSport 1" tvg-logo="https://static.realiptv.to/snapshots/2286.jpg" group-title="ENG - United Kingdom",UK EuroSport 1
+#EXTINF:-1 tvg-id="UKEurosport1.uk" tvg-name="EuroSport 1 UK" group-title="ENG - United Kingdom",EuroSport 1 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2286
-#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK EuroSport 2" tvg-logo="https://static.realiptv.to/snapshots/2285.jpg" group-title="ENG - United Kingdom",UK EuroSport 2
+#EXTINF:-1 tvg-id="UKEurosport2.uk" tvg-name="EuroSport 2 UK" group-title="ENG - United Kingdom",EuroSport 2 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2285
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="UK Film 4 HD" tvg-logo="https://static.realiptv.to/snapshots/2284.jpg" group-title="ENG - United Kingdom",UK Film 4 HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2284
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="UK Film 4 HD" tvg-logo="https://static.realiptv.to/snapshots/2283.jpg" group-title="ENG - United Kingdom",UK Film 4 HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2283
-#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-name="UK Food Network" tvg-logo="https://static.realiptv.to/snapshots/2280.jpg" group-title="ENG - United Kingdom",UK Food Network
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network UK" group-title="ENG - Entertainment",Food Network UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2280
 #EXTINF:-1 tvg-id="fox.uk" tvg-name="UK Fox" tvg-logo="https://static.realiptv.to/snapshots/2279.jpg" group-title="ENG - United Kingdom",UK Fox
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2279
 #EXTINF:-1 tvg-name="UK Fox News HD" tvg-logo="https://static.realiptv.to/snapshots/2278.jpg" group-title="ENG - United Kingdom",UK Fox News HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2278
-#EXTINF:-1 tvg-id="france24.uk" tvg-name="UK France 24 News" tvg-logo="https://static.realiptv.to/snapshots/2277.jpg" group-title="ENG - United Kingdom",UK France 24 News
+#EXTINF:-1 tvg-id="France24.uk" tvg-name="France 24 News UK" group-title="ENG - News",France 24 News UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2277
 #EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK FreeSports" tvg-logo="https://static.realiptv.to/snapshots/2276.jpg" group-title="ENG - United Kingdom",UK FreeSports
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2276
-#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK Gold" tvg-logo="https://static.realiptv.to/snapshots/2275.jpg" group-title="ENG - United Kingdom",UK Gold
+#EXTINF:-1 tvg-id="Gold.uk" tvg-name="Gold UK" group-title="ENG - Entertainment",Gold UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2275
 #EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="UK Good Food" tvg-logo="https://static.realiptv.to/snapshots/2274.jpg" group-title="ENG - United Kingdom",UK Good Food
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2274
 #EXTINF:-1 tvg-id="history2.uk" tvg-name="UK History 2" tvg-logo="https://static.realiptv.to/snapshots/2273.jpg" group-title="ENG - United Kingdom",UK History 2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2273
-#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="UK History HD" tvg-logo="https://static.realiptv.to/snapshots/2271.jpg" group-title="ENG - United Kingdom",UK History HD
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History HD UK" group-title="ENG - Entertainment",Discovery History HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2271
 #EXTINF:-1 tvg-id="home.uk" tvg-name="UK Home" tvg-logo="https://static.realiptv.to/snapshots/2270.jpg" group-title="ENG - United Kingdom",UK Home
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2270
@@ -3177,11 +3147,11 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2270
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2269
 #EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK HORROR CHANNEL" tvg-logo="https://static.realiptv.to/snapshots/88862.jpg" group-title="ENG - United Kingdom",UK HORROR CHANNEL
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88862
-#EXTINF:-1 tvg-id="horseandcountry.uk" tvg-name="UK Horse and Country" tvg-logo="https://static.realiptv.to/snapshots/2267.jpg" group-title="ENG - United Kingdom",UK Horse and Country
+#EXTINF:-1 tvg-id="HorseAndCountry.uk" tvg-name="Horse and Country HD1 UK" group-title="ENG - Entertainment",Horse and Country HD1 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2267
-#EXTINF:-1 tvg-name="UK HORSE AND COUNTRY" tvg-logo="https://static.realiptv.to/snapshots/88861.jpg" group-title="ENG - United Kingdom",UK HORSE AND COUNTRY
+#EXTINF:-1 tvg-id="HorseAndCountry.uk" tvg-name="Horse and Country HD2 UK" group-title="ENG - Entertainment",Horse and Country HD2 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88861
-#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="UK Investigation Discovery" tvg-logo="https://static.realiptv.to/snapshots/2266.jpg" group-title="ENG - United Kingdom",UK Investigation Discovery
+#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery UK" group-title="ENG - Entertainment",Investigation Discovery UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2266
 #EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK ITV 2" tvg-logo="https://static.realiptv.to/snapshots/2264.jpg" group-title="ENG - United Kingdom",UK ITV 2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2264
@@ -3205,11 +3175,11 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2259
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2258
 #EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK LIFETIME" tvg-logo="https://static.realiptv.to/snapshots/88853.jpg" group-title="ENG - United Kingdom",UK LIFETIME
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88853
-#EXTINF:-1 tvg-id="londonlive.uk" tvg-name="UK London Live" tvg-logo="https://static.realiptv.to/snapshots/2257.jpg" group-title="ENG - United Kingdom",UK London Live
+#EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="London Live UK" group-title="ENG - Entertainment",London Live UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2257
-#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK More 4 HD" tvg-logo="https://static.realiptv.to/snapshots/2254.jpg" group-title="ENG - United Kingdom",UK More 4 HD
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="More 4 HD UK" group-title="ENG - Entertainment",More 4 HD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2254
-#EXTINF:-1 tvg-id="mtv.uk" tvg-name="UK MTV" tvg-logo="https://static.realiptv.to/snapshots/2251.jpg" group-title="ENG - United Kingdom",UK MTV
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV UK" group-title="ENG - Entertainment",MTV UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2251
 #EXTINF:-1 tvg-id="mtvbase.uk" tvg-name="UK MTV Base" tvg-logo="https://static.realiptv.to/snapshots/2250.jpg" group-title="ENG - United Kingdom",UK MTV Base
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2250
@@ -3219,7 +3189,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2249
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2311
 #EXTINF:-1 tvg-id="mtvdance.uk" tvg-name="UK MTV Dance" tvg-logo="https://static.realiptv.to/snapshots/2248.jpg" group-title="ENG - United Kingdom",UK MTV Dance
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2248
-#EXTINF:-1 tvg-id="mtv.uk" tvg-name="UK MTV HD" tvg-logo="https://static.realiptv.to/snapshots/2247.jpg" group-title="ENG - United Kingdom",UK MTV HD
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV HD2 UK" group-title="ENG - Entertainment",MTV HD2 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2247
 #EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="UK MTV Hits" tvg-logo="https://static.realiptv.to/snapshots/2246.jpg" group-title="ENG - United Kingdom",UK MTV Hits
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2246
@@ -3227,35 +3197,35 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2246
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2245
 #EXTINF:-1 tvg-id="mtvrocks.uk" tvg-name="UK MTV Rocks" tvg-logo="https://static.realiptv.to/snapshots/2243.jpg" group-title="ENG - United Kingdom",UK MTV Rocks
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2243
-#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK MUTV" tvg-logo="https://static.realiptv.to/snapshots/2242.jpg" group-title="ENG - United Kingdom",UK MUTV
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV UK" group-title="ENG - Sports",MUTV UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2242
-#EXTINF:-1 tvg-name="UK Nat Geo" tvg-logo="https://static.realiptv.to/snapshots/2240.jpg" group-title="ENG - United Kingdom",UK Nat Geo
+#EXTINF:-1 tvg-id="NationalGeographicChannel.uk" tvg-name="NatGeo UK" group-title="ENG - Entertainment",NatGeo UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2240
-#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK Nat Geo Wild" tvg-logo="https://static.realiptv.to/snapshots/2239.jpg" group-title="ENG - United Kingdom",UK Nat Geo Wild
+#EXTINF:-1 tvg-id="NationalGeographicWild.uk" tvg-name="NatGeo Wild UK" group-title="ENG - Entertainment",Nat Geo Wild UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2239
 #EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="UK NICK JUNIOR" tvg-logo="https://static.realiptv.to/snapshots/2237.jpg" group-title="ENG - United Kingdom",UK NICK JUNIOR
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2237
 #EXTINF:-1 tvg-id="NickJuniorToo.uk" tvg-name="UK Nick Junior Too" tvg-logo="https://static.realiptv.to/snapshots/2238.jpg" group-title="ENG - United Kingdom",UK Nick Junior Too
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2238
-#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK Nickelodeon" tvg-logo="https://static.realiptv.to/snapshots/650439.jpg" group-title="ENG - United Kingdom",UK Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon UK" group-title="ENG - Kids & Family",Nickelodeon UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650439
 #EXTINF:-1 tvg-name="UK NickSpongeBob" tvg-logo="https://static.realiptv.to/snapshots/650440.jpg" group-title="ENG - United Kingdom",UK NickSpongeBob
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/650440
-#EXTINF:-1 tvg-id="nicktoons.uk" tvg-name="UK NICKTOONS" tvg-logo="https://static.realiptv.to/snapshots/2236.jpg" group-title="ENG - United Kingdom",UK NICKTOONS
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="NickToons UK" group-title="ENG - Kids & Family",NickToons UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2236
 #EXTINF:-1 tvg-id="paramount.uk" tvg-name="UK Paramount" tvg-logo="https://static.realiptv.to/snapshots/2174.jpg" group-title="ENG - United Kingdom",UK Paramount
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2174
 #EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK PICK" tvg-logo="https://static.realiptv.to/snapshots/2230.jpg" group-title="ENG - United Kingdom",UK PICK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2230
-#EXTINF:-1 tvg-id="pop.uk" tvg-name="UK POP" tvg-logo="https://static.realiptv.to/snapshots/2229.jpg" group-title="ENG - United Kingdom",UK POP
+#EXTINF:-1 tvg-id="Pop.uk" tvg-name="POP UK" group-title="ENG - Entertainment",POP UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2229
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK PREMIER  SPORTS 1" tvg-logo="https://static.realiptv.to/snapshots/89089.jpg" group-title="ENG - United Kingdom",UK PREMIER  SPORTS 1
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="PREMIER  SPORTS 1 HD2 UK" group-title="ENG - Sports",PREMIER  SPORTS 1 HD2 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89089
-#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK PREMIER SPORTS 2" tvg-logo="https://static.realiptv.to/snapshots/89090.jpg" group-title="ENG - United Kingdom",UK PREMIER SPORTS 2
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="PREMIER SPORTS 2 HD2 UK" group-title="ENG - Sports",PREMIER SPORTS 2 HD2 UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89090
-#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK Quest" tvg-logo="https://static.realiptv.to/snapshots/2228.jpg" group-title="ENG - United Kingdom",UK Quest
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="Quest UK" group-title="ENG - Entertainment",Quest UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2228
-#EXTINF:-1 tvg-id="questred.uk" tvg-name="UK Quest Red" tvg-logo="https://static.realiptv.to/snapshots/2227.jpg" group-title="ENG - United Kingdom",UK Quest Red
+#EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="Quest Red UK" group-title="ENG - Entertainment",Quest Red UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2227
 #EXTINF:-1 tvg-id="really.uk" tvg-name="UK Really" tvg-logo="https://static.realiptv.to/snapshots/2224.jpg" group-title="ENG - United Kingdom",UK Really
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2224
