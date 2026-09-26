@@ -2563,7 +2563,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/435490
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/638792
 #EXTINF:-1 tvg-id="NewsNation.us" tvg-name="NewsNation HD2 US" group-title="ENG - News",NewsNation HD2 US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/647784
-#EXTINF:-1 tvg-id="ScrippsNews.us" tvg-name="Scripps News" group-title="ENG - News",Scripps News 
+#EXTINF:-1 tvg-id="ScrippsNews.us" tvg-name="Scripps News" group-title="ENG - News",Scripps News
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/77414
 #EXTINF:-1 tvg-id="NHKWorld.us" tvg-name="NHK World KCET" group-title="ENG - News",NHK World KCET
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597118
@@ -3995,7 +3995,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97481
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3812
 #EXTINF:-1 tvg-id="SmithsonianNetworkPacific.us" tvg-name="Smithsonian (West) USA" group-title="ENG - Entertainment",Smithsonian (West) USA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/631865
-#EXTINF:-1 tvg-id="SpaceCityHomeNetwork.us" tvg-name="Space City Home Network" group-title="ENG - Entertainment",Space City Home Network
+#EXTINF:-1 tvg-id="SpaceCityHomeNetwork.us" tvg-name="Space City Home Network" group-title="ENG - Sports",Space City Home Network
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663927
 #EXTINF:-1 tvg-id="StartTV.us" tvg-name="Start TV" group-title="ENG - Entertainment",Start TV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/469939
@@ -4637,11 +4637,11 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3099
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3079
 #EXTINF:-1 tvg-id="HLN.ca" tvg-name="HLN CA" group-title="ENG - Entertainment",HLN CA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3098
-#EXTINF:-1 tvg-id="hollywoodsuite70s.ca" tvg-name="Hollywood Suite 70's" group-title="ENG - Movies",Hollywood Suite 70's
+#EXTINF:-1 tvg-id="HollywoodSuite70s+Movies.ca" tvg-name="Hollywood Suite 70's" group-title="ENG - Movies",Hollywood Suite 70's
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59884
-#EXTINF:-1 tvg-id="hollywoodsuite80s.ca" tvg-name="Hollywood Suite 80's" group-title="ENG - Movies",Hollywood Suite 80's
+#EXTINF:-1 tvg-id="HollywoodSuite80sAnd90sMovies.ca" tvg-name="Hollywood Suite 80's & 90's" group-title="ENG - Movies",Hollywood Suite 80's & 90's
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59883
-#EXTINF:-1 tvg-id="hollywoodsuite90s.ca" tvg-name="Hollywood Suite 90's" group-title="ENG - Movies",Hollywood Suite 90's
+#EXTINF:-1 tvg-id="HollywoodSuite2010s+Movies.ca" tvg-name="Hollywood Suite 2010s+" group-title="ENG - Movies",Hollywood Suite 2010s+
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3367
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="ID CA" group-title="ENG - Entertainment",ID CA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3282
@@ -5661,23 +5661,15 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177096
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/177097
 #EXTINF:-1 tvg-id="FOXKXLT.us" tvg-name="MN | Rochester | FOX KXLT" group-title="Z - Offline Streams",MN | Rochester | FOX KXLT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629911
-#EXTINF:-1 tvg-name="MOTORSPORT 01: " tvg-logo="https://static.realiptv.to/snapshots/712482.jpg" group-title="ENG - Sports Auto",MOTORSPORT 01:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/712482
-#EXTINF:-1 tvg-name="MOTORSPORT 02: " tvg-logo="https://static.realiptv.to/snapshots/714451.jpg" group-title="ENG - Sports Auto",MOTORSPORT 02:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/714451
-#EXTINF:-1 tvg-name="MOTORSPORT 03:" tvg-logo="https://static.realiptv.to/snapshots/714452.jpg" group-title="ENG - Sports Auto",MOTORSPORT 03:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/714452
-#EXTINF:-1 tvg-name="MOTORSPORT 04: " tvg-logo="https://static.realiptv.to/snapshots/714453.jpg" group-title="ENG - Sports Auto",MOTORSPORT 04:
-https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/714453
 #EXTINF:-1 tvg-id="Cars.TV.HD.us2" tvg-name="Cars TV" group-title="ENG - Sports Auto",Cars TV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/75345
 #EXTINF:-1 tvg-id="Cars.TV.HD.us2" tvg-name="Cars TV SD" group-title="ENG - Sports Auto",Cars TV SD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401219
-#EXTINF:-1 tvg-id="RacerNetwork.us" tvg-name="Racer Network SD" tvg-logo="https://static.realiptv.to/snapshots/97540.jpg" group-title="ENG - Sports Auto",Racer Network SD
+#EXTINF:-1 tvg-id="RacerNetwork.us" tvg-name="Racer Network SD" group-title="ENG - Sports Auto",Racer Network SD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97540
 #EXTINF:-1 tvg-id="RacerNetwork.us" tvg-name="Racer Network" group-title="ENG - Sports Auto",Racer Network USA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/5290
-#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo USA SD" tvg-logo="https://static.realiptv.to/snapshots/97471.jpg" group-title="ENG - Sports Auto",Discovery Turbo USA SD
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo SD USA" group-title="ENG - Sports Auto",Discovery Turbo SD USA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97471
 #EXTINF:-1 tvg-name="MX PX Sports" tvg-logo="https://static.realiptv.to/snapshots/3980.jpg" group-title="ESP - Mexico",MX PX Sports
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3980
