@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Z - Classic TV Place Holder - " group-title="ENG - Classic TV & Westerns",Z - Classic TV Place Holder - 
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Z - Entertainment Holder - " group-title="ENG - Entertainment",Z - Entertainment Holder - 
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Z - Kids Holder - " group-title="ENG - Kids & Family",Z - Kids Holder - 
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Z - ABC Holder -" group-title="ENG - Local ABC",Z - ABC Holder - 
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Z - CBS Holder - " group-title="ENG - Local CBS",Z - CBS Holder - 
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Z - CW/IND Holder - " group-title="ENG - Local CW/IND",Z - CW/IND Holder - 
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Z - FOX/MY Holder - " group-title="ENG - Local FOX/MY",Z - FOX/MY Holder - 
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Z - NBC Holder - " group-title="ENG - Local NBC",Z - NBC Holder - 
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Z - Movies Holder - " group-title="ENG - Movies",Z - Movies Holder - 
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Z - Sports Holder - " group-title="ENG - Sports",Z - Sports Holder - 
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Z - News Holder - " group-title="ENG - News",Z - News Holder - 
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Z - Sports Auto Holder - " group-title="ENG - Sports Auto",Z - Sports Auto Holder - 
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Z - Sports Fight Holder - " group-title="ENG - Sports Fight",Z - Sports Fight Holder - 
+http://example.com/stream
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Z - Live Events Holder - " group-title="Live Events",Z - Live Events Holder - 
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Z - Music Holder - " group-title="Music (All Lang)",Z - Music Holder - 
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Z - Religion Holder - " group-title="Religion (All Lang)",Z - Religion Holder - 
+http://example.com/stream
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="Z - Offline Holder - " group-title="Z - Offline Streams",Z - Offline Holder - 
+http://example.com/stream
